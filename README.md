@@ -6,7 +6,7 @@
     <title>Student Information Form</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Arial, sans-serif; #not useful
             background-color: #f4f4f4;
             color: #333;
             margin: 0;
